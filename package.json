@@ -1,0 +1,28 @@
+{
+  "name": "@07leten/ddispredictionmodel",
+  "version": "1.0.0",
+  "description": "本项目包含一个深度学习模型及相关脚本，用于预测潜在的药物-疾病相互作用 (DDIs)。该模型利用基于网络特征的药物嵌入（利用SMILES表示法并基于基因靶点）和疾病嵌入（基于 MeSH 描述符）来预测相互作用的概率。",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/07Leten/DDIsPredictionModel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DDIs",
+    "prediction",
+    "model",
+    "deep learning",
+    "drug-disease interactions",
+    "SMILES",
+    "MeSH"
+  ],
+  "author": "07Leten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/07Leten/DDIsPredictionModel/issues"
+  },
+  "homepage": "https://github.com/07Leten/DDIsPredictionModel#readme"
+}
