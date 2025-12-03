@@ -1,6 +1,6 @@
 # 基于深度学习的药物-疾病相互作用预测 (Drug-Disease Interaction Prediction)
 
-本项目基于论文https://doi.org/10.1002/advs.202409130，原项目地址：https://github.com/WBY20/DrugComb_Disease_Prediction。本项目为拥有者在清华大学新雅小课《基于人工智能的中医药推理模型与探索》课程基于论文代码对单一药物模型构建与训练进行实践复现时所作。本项目作为拥有者的代码记录仓库使用。  
+本项目基于论文【4】Leveraging Network Target Theory for Efficient Prediction of Drug‐Disease Interactions：A Transfer Learning Approach。本项目为拥有者在清华大学新雅小课《基于深度学习的中医药推理模型与探索》课程基于论文代码对单一药物模型构建与训练进行实践复现时所作。本项目作为拥有者的代码记录仓库使用。  
 本项目包含一个深度学习模型及相关脚本，用于预测潜在的药物-疾病相互作用 (DDIs)。该模型利用基于网络特征的药物嵌入（利用SMILES表示法并基于基因靶点）和疾病嵌入（基于 MeSH 描述符）来预测相互作用的概率。
 
 ## 项目概述
